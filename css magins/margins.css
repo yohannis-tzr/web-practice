@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+}
+.box{
+    border: 5px solid;
+    font-size: 5em;
+    width: 200px;
+    height: 200px;
+}
+#box1{
+    background-color: blueviolet;
+}
+#box2{
+    background-color: green;
+}
