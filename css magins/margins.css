@@ -6,11 +6,13 @@ body{
     font-size: 5em;
     width: 200px;
     height: 200px;
+    margin-left: 50px;
+    margin-top: 50px;
 }
 #box1{
     margin-bottom: 50px;
     background-color: blueviolet;
 }
 #box2{
-    background-color: green;
+    background-color: green; 
 }
